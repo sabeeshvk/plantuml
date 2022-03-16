@@ -1,0 +1,30 @@
+@startuml
+!define CLOUDOGUURL https://raw.githubusercontent.com/cloudogu/plantuml-cloudogu-sprites/master
+!includeurl CLOUDOGUURL/common.puml
+!includeurl CLOUDOGUURL/dogus/jenkins.puml
+!includeurl CLOUDOGUURL/dogus/cloudogu.puml
+!includeurl CLOUDOGUURL/dogus/scm.puml
+!includeurl CLOUDOGUURL/dogus/smeagol.puml
+!includeurl CLOUDOGUURL/dogus/nexus.puml
+!includeurl CLOUDOGUURL/tools/k8s.puml
+
+SHOW_PERSON_PORTRAIT()
+
+node "Cloudogu Ecosystem" <<$cloudogu>> {
+	DOGU_JENKINS(jenkins, Jenkins) #ffffff
+	DOGU_SCM(scm, SCM-Manager) #ffffff
+	DOGU_SMEAGOL(smeagol, Smeagol) #ffffff
+	DOGU_NEXUS(nexus,Nexus) #ffffff
+}
+
+TOOL_K8S(k8s, Kubernetes) #ffffff
+
+actor developer
+
+developer -> smeagol : "Edit Slides"
+smeagol -> scm : Push
+scm -> jenkins : Trigger
+jenkins -> nexus : Deploy
+jenkins -> k8s : Deploy
+
+@enduml

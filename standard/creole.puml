@@ -1,0 +1,25 @@
+@startuml
+object demo {
+  * Bullet list
+  * Second item
+}
+note left
+  = Extra 
+  == Second
+  === third
+  
+  * Bullet list
+  * Second item
+  ** Sub item
+end note
+
+legend
+  # Numbered list
+  # Second item
+  ## Sub item
+  ## Another sub item
+        * Can't quite mix 
+        * Numbers and bullets
+  # Third item
+end legend
+@enduml
