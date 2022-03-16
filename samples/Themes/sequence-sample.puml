@@ -1,0 +1,29 @@
+@startuml
+
+
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
+
+
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/aws-orange-dark/puml-theme-aws-orange-dark.puml
+
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/united/puml-theme-united.puml
+
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cyborg-outline/puml-theme-cyborg-outline.puml
+
+title __Sample for Sequence Diagrams__
+
+hide footbox 
+
+actor Alice 
+actor Bob
+
+note left of Alice #Orange: Start "Hello"
+Alice -> Bob: Hello
+activate Bob
+hnote over Alice: Wating...
+note right of Bob: Reply "Hello"
+Alice <<-- Bob: Hello
+deactivate Bob
+rnote over Alice, Bob #Orange: Complete "Hello"
+
+@enduml

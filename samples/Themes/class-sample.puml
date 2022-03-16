@@ -1,0 +1,42 @@
+/' ABSTRACT FACTORY '/
+
+@startuml
+
+
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/materia/puml-theme-materia.puml
+
+
+class Client
+
+interface AbstractFactory {
+    + createProductA()
+    + createProductB()
+}
+
+class ConcreteFactory {
+    + createProductA()
+    + createProductB()
+}
+
+interface AbstractProduct
+
+class ConcreteProduct
+
+hide empty members
+
+AbstractFactory <|-- ConcreteFactory
+AbstractProduct <|-- ConcreteProduct
+Client --> AbstractFactory
+Client --> AbstractProduct
+
+note as N1
+    <b><color:royalBlue>Abstract Factory</color></b>
+    <b>Type:</b> Creational
+    Provides an interface for creating
+    families of related or dependent
+    objects without specifying their
+    concrete class.
+end note
+
+@enduml
