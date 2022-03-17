@@ -1,0 +1,31 @@
+@startuml
+
+!include https://raw.githubusercontent.com/plantuml/puml-themes/master/themes/metal/puml-theme-metal.puml
+
+left to right direction
+skinparam packageStyle rectangle
+actor :Student: as S
+actor :Instructor: as I
+
+rectangle “Online Grade Book”{
+usecase (System Login) as (SL)
+usecase (Select Class) as (SC)
+usecase (Select Assignment) as (SA)
+usecase (Upload Assignment) as (UA)
+usecase (Select Student) as (SS)
+usecase (Enter Text) as (ET)
+usecase (Grade Assignment) as (GA)
+S --> (SL)
+S --> (SC)
+S --> (SA)
+S --> (UA)
+S --> (ET)
+(SL) -- I
+(SC) -- I
+(SA) -- I
+(SS) -- I
+(GA) -- I
+(UA) -[hidden]> (ET)
+(SS) -[hidden]> (GA)
+}
+@enduml

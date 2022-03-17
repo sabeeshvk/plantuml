@@ -1,0 +1,18 @@
+@startuml
+* UML
+** Behavioral
+*** Activity Diagrams
+*** Interaction Diagrams
+**** Sequence Diagrams
+**** Communication Diagrams
+**** Timing Diagrams
+*** State Machine Diagrams
+*** Use Case Diagrams
+** Structural
+*** Class Diagrams
+*** Component Diagrams
+*** Composite Diagrams
+*** Deployment Diagrams
+*** Object Diagrams
+*** Package Diagrams
+@enduml
