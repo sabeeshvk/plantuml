@@ -1,0 +1,25 @@
+@startsalt
+
+
+skinparam BackgroundColor #Grey
+skinparam NoteBackgroundColor #LightGreen
+skinparam FontSize 20
+
+
+{
+{T
+ + World
+ ++ America
+ +++ Canada
+ +++ USA
+ ++++ New York
+ ++++ Boston
+ +++ Mexico
+ ++ Europe
+ +++ Italy
+ +++ Germany
+ ++++ Berlin
+ ++ Africa
+}
+}
+@endsalt

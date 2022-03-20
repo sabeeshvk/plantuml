@@ -1,0 +1,14 @@
+@startuml
+
+!include https://raw.githubusercontent.com/plantuml/puml-themes/master/themes/metal/puml-theme-metal.puml
+
+(*) --> “Receive Order”
+--> === S1 ===
+=== S1 === --> “Make Drink”
+=== S1 === --> “Make Bakery”
+=== S1 === --> “Make Payment”
+“Make Drink” --> === S2 ===
+“Make Bakery” --> === S2 ===
+“Make Payment” --> === S2 ===
+--> (*)
+@enduml

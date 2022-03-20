@@ -1,0 +1,3192 @@
+@startjson
+
+{
+    "assets": [
+        {
+            "id": "LU0270904781",
+            "names": [
+                {
+                    "code": "LEGL",
+                    "type": {
+                        "id": "28404",
+                        "name": "Full Fund Name"
+                    },
+                    "values": [
+                        {
+                            "value": "Pictet-Security-P EUR"
+                        }
+                    ]
+                },
+                {
+                    "code": "SHORT_NAME",
+                    "type": {
+                        "id": "30",
+                        "name": "Short Name"
+                    },
+                    "values": [
+                        {
+                            "value": "Pictet-Security-P EUR"
+                        }
+                    ]
+                },
+                {
+                    "code": "NAME",
+                    "type": {
+                        "id": "29",
+                        "name": "Name"
+                    },
+                    "values": [
+                        {
+                            "value": "Pictet-Security-P EUR"
+                        }
+                    ]
+                }
+            ],
+            "codes": [
+                {
+                    "code": "RICTRIARCH",
+                    "type": {
+                        "id": "1425",
+                        "name": "RIC / Triarch Code"
+                    },
+                    "values": [
+                        {
+                            "value": "LP65054128"
+                        }
+                    ]
+                },
+                {
+                    "code": "FITZGROUP",
+                    "type": {
+                        "id": "6554",
+                        "name": "F&E Group Code"
+                    },
+                    "values": [
+                        {
+                            "value": "504",
+                            "date": "2013-10-21"
+                        }
+                    ]
+                },
+                {
+                    "code": "FITZFUND",
+                    "type": {
+                        "id": "6552",
+                        "name": "F&E Fund Code"
+                    },
+                    "values": [
+                        {
+                            "value": "95789",
+                            "date": "2014-12-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "UKFSA",
+                    "type": {
+                        "id": "30543"
+                    },
+                    "values": [
+                        {
+                            "value": "186066"
+                        }
+                    ]
+                },
+                {
+                    "code": "FEEDID",
+                    "type": {
+                        "id": "5576"
+                    },
+                    "values": [
+                        {
+                            "value": "EURLU0270904781"
+                        }
+                    ]
+                },
+                {
+                    "code": "RIC",
+                    "type": {
+                        "id": "26",
+                        "name": "RIC"
+                    },
+                    "values": [
+                        {
+                            "value": "027090478X.LU",
+                            "date": "2007-03-21"
+                        },
+                        {
+                            "value": "A0LC44X.DX",
+                            "date": "2007-05-01"
+                        },
+                        {
+                            "value": "LP65054128",
+                            "date": "2007-11-21"
+                        },
+                        {
+                            "value": "2736681.S",
+                            "date": "2009-07-10"
+                        },
+                        {
+                            "value": "Q582ff.FP^K10",
+                            "date": "2010-11-14"
+                        },
+                        {
+                            "value": "LU0270904781.LUF^G11",
+                            "date": "2011-07-20"
+                        },
+                        {
+                            "value": "A0LC44X.BE",
+                            "date": "2012-11-23"
+                        },
+                        {
+                            "value": "A0LC44X.MU",
+                            "date": "2012-11-23"
+                        },
+                        {
+                            "value": "A0LC44X.F",
+                            "date": "2012-11-26"
+                        },
+                        {
+                            "value": "A0LC44X.SG",
+                            "date": "2013-11-05"
+                        },
+                        {
+                            "value": "A0LC44X.TG",
+                            "date": "2018-12-04"
+                        },
+                        {
+                            "value": "LU0270904781.GTX",
+                            "date": "2019-03-06"
+                        },
+                        {
+                            "value": "P3IE.S",
+                            "date": "2019-04-10"
+                        },
+                        {
+                            "value": "LU0270904781=DAp^E20",
+                            "date": "2020-05-20"
+                        },
+                        {
+                            "value": "LU0270904781.DAp^J20",
+                            "date": "2020-10-30"
+                        },
+                        {
+                            "value": "A0LC44X.H",
+                            "date": "2021-02-17"
+                        },
+                        {
+                            "value": "A0LC44X.D^C21",
+                            "date": "2021-03-24"
+                        },
+                        {
+                            "value": "A0LC44X.QTX^C21",
+                            "date": "2021-03-24"
+                        }
+                    ]
+                },
+                {
+                    "code": "SEDOL",
+                    "type": {
+                        "id": "1420",
+                        "name": "Sedol Code"
+                    },
+                    "values": [
+                        {
+                            "value": "B1YVF55",
+                            "date": "2021-03-10"
+                        }
+                    ]
+                },
+                {
+                    "code": "WPKN",
+                    "type": {
+                        "id": "1434",
+                        "name": "WKN - German"
+                    },
+                    "values": [
+                        {
+                            "value": "A0LC44"
+                        }
+                    ]
+                },
+                {
+                    "code": "ISINCURR",
+                    "type": {
+                        "id": "5394",
+                        "name": "ISIN Currency Class"
+                    },
+                    "values": [
+                        {
+                            "value": "LU0270904781.EUR"
+                        }
+                    ]
+                },
+                {
+                    "code": "VALOREN",
+                    "type": {
+                        "id": "1426",
+                        "name": "Valor"
+                    },
+                    "values": [
+                        {
+                            "value": "2736681"
+                        }
+                    ]
+                },
+                {
+                    "code": "ISIN",
+                    "type": {
+                        "id": "1424",
+                        "name": "ISIN Code"
+                    },
+                    "values": [
+                        {
+                            "value": "LU0270904781"
+                        }
+                    ]
+                },
+                {
+                    "code": "OAID",
+                    "type": {
+                        "id": "36941",
+                        "name": "Perm ID"
+                    },
+                    "values": [
+                        {
+                            "value": "8590693993"
+                        }
+                    ]
+                },
+                {
+                    "code": "LEI",
+                    "type": {
+                        "id": "45960",
+                        "name": "Legal Entity Identifier"
+                    },
+                    "values": [
+                        {
+                            "value": "549300V8FZYMGQ1ITR48"
+                        }
+                    ]
+                },
+                {
+                    "code": "WPKN_HLD",
+                    "type": {
+                        "id": "1434",
+                        "name": "WKN - German"
+                    },
+                    "values": [
+                        {
+                            "value": "A0LC44"
+                        }
+                    ]
+                },
+                {
+                    "code": "VALOREN_HLD",
+                    "type": {
+                        "id": "1426",
+                        "name": "Valor"
+                    },
+                    "values": [
+                        {
+                            "value": "2736681"
+                        }
+                    ]
+                },
+                {
+                    "code": "RIC_HLD",
+                    "type": {
+                        "id": "1425",
+                        "name": "RIC / Triarch Code"
+                    },
+                    "values": [
+                        {
+                            "value": "LP65054128"
+                        }
+                    ]
+                },
+                {
+                    "code": "CUSIP_HLD",
+                    "type": {
+                        "id": "4862",
+                        "name": "CUSIP"
+                    },
+                    "values": [
+                        {
+                            "value": "L7579W417",
+                            "date": "2012-11-01"
+                        }
+                    ]
+                },
+                {
+                    "code": "SEDOL_HLD",
+                    "type": {
+                        "id": "1420",
+                        "name": "Sedol Code"
+                    },
+                    "values": [
+                        {
+                            "value": "B1YVF55",
+                            "date": "2021-03-10"
+                        }
+                    ]
+                },
+                {
+                    "code": "ISIN_HLD",
+                    "type": {
+                        "id": "1424",
+                        "name": "ISIN Code"
+                    },
+                    "values": [
+                        {
+                            "value": "LU0270904781"
+                        }
+                    ]
+                },
+                {
+                    "code": "LIPPERID",
+                    "type": {
+                        "id": "4002",
+                        "code": "LIPPERID",
+                        "name": "LipperId"
+                    },
+                    "values": [
+                        {
+                            "value": "65054128"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "code": "LIPPER_DOM",
+                    "type": {
+                        "id": "299",
+                        "name": "Domicile"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "329",
+                                "code": "LUX",
+                                "name": "Luxembourg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "FGSGSOP",
+                    "type": {
+                        "id": "5400",
+                        "name": "SG - Restricted Scheme"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "398",
+                                "code": "Y",
+                                "name": "Yes"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "ASSETTYPE",
+                    "type": {
+                        "id": "1034",
+                        "name": "Asset Type"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "1036",
+                                "code": "EQUITY",
+                                "name": "Equity"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "GEOFOCUS",
+                    "type": {
+                        "id": "1041",
+                        "name": "Geographical Focus"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "30979",
+                                "code": "Global",
+                                "name": "Global"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "EUGRAND",
+                    "type": {
+                        "id": "7803",
+                        "name": "Prospectus vs Asset Allocation"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "398",
+                                "code": "Y",
+                                "name": "Yes"
+                            },
+                            "date": "2013-10-03"
+                        }
+                    ]
+                },
+                {
+                    "code": "LEGALSTRCT",
+                    "type": {
+                        "id": "1129",
+                        "name": "Legal Structure"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "1168",
+                                "code": "SICAV1",
+                                "name": "LU - SICAV - Part 1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "BASEASSETCATEGORY",
+                    "type": {
+                        "id": "25680",
+                        "name": "Asset Universe"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "25349",
+                                "code": "Mutual_Funds",
+                                "name": "Mutual Funds"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "FGUCITS",
+                    "type": {
+                        "id": "1350",
+                        "name": "UCITS"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "398",
+                                "code": "Y",
+                                "name": "Yes"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "FGFSAREC",
+                    "type": {
+                        "id": "9120",
+                        "name": "FCA Recognised"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "398",
+                                "code": "Y",
+                                "name": "Yes"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "CURRENCYOFRECORD",
+                    "type": {
+                        "id": "28029",
+                        "code": "CURRENCYOFRECORD",
+                        "name": "Currency of record"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "10000183",
+                                "code": "EUR",
+                                "name": "Euro"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "EUTDTS",
+                    "type": {
+                        "id": "7802",
+                        "name": "EUTD < 15% Threshold"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "398",
+                                "code": "Y",
+                                "name": "Yes"
+                            },
+                            "date": "2014-02-03"
+                        }
+                    ]
+                },
+                {
+                    "code": "EUTXSTATUS",
+                    "type": {
+                        "id": "7850",
+                        "name": "EU Tax Directive Status"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "10401",
+                                "code": "INSCPNT",
+                                "name": "In Scope - No Tax"
+                            },
+                            "date": "2014-02-03"
+                        }
+                    ]
+                },
+                {
+                    "code": "DESAVSCHM",
+                    "type": {
+                        "id": "1324",
+                        "name": "German Saving Schemes"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "1325",
+                                "code": "DEVL",
+                                "name": "Vermoegenswirksame Leistungen"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "GERTTII",
+                    "type": {
+                        "id": "33321",
+                        "name": "German Tax Transparency"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "33323",
+                                "code": "YES",
+                                "name": "Yes"
+                            },
+                            "date": "2015-03-06"
+                        }
+                    ]
+                },
+                {
+                    "code": "EUNAV",
+                    "type": {
+                        "id": "7804",
+                        "name": "NAV TIIA"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "398",
+                                "code": "Y",
+                                "name": "Yes"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "LASTDAYOFWEEK",
+                    "type": {
+                        "id": "26367",
+                        "name": "Last Day of Week"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "31206",
+                                "code": "Friday",
+                                "name": "Friday"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "PRICING",
+                    "type": {
+                        "id": "4540",
+                        "name": ""
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "4630",
+                                "code": "SSVAL",
+                                "name": "Supplied & Stored Valuation"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "PRDEEX",
+                    "type": {
+                        "id": "35821",
+                        "name": "Price Delivery Expected"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "35823",
+                                "code": "1",
+                                "name": "1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "PHTAXOP",
+                    "type": {
+                        "id": "32102",
+                        "name": "Price History Tax Operation"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "763",
+                                "code": "Gross",
+                                "name": "Gross"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "PRICESUPPL",
+                    "type": {
+                        "id": "1252",
+                        "name": ""
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "1265",
+                                "code": "LIPPERCH",
+                                "name": "Lipper Zurich"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "VALUATIONDELAY",
+                    "type": {
+                        "id": "26340",
+                        "name": "Valuation Delay"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "26360",
+                                "code": "Zero",
+                                "name": "0: Zero"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "BLUTEN",
+                    "type": {
+                        "id": "14627",
+                        "name": "Austrian Registration Status"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "14630",
+                                "code": "BUNDZUG",
+                                "name": "Meldefonds / Zugelassen"
+                            },
+                            "date": "2010-11-18"
+                        }
+                    ]
+                },
+                {
+                    "code": "PRICEFREQ",
+                    "type": {
+                        "id": "1275",
+                        "name": "Valuation / Pricing Frequency"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "1276",
+                                "code": "PRDAILY",
+                                "name": "Pricing Daily, Mon-Fri"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "RERP",
+                    "type": {
+                        "id": "39101",
+                        "name": "Reporting Fund"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "398",
+                                "code": "Y",
+                                "name": "Yes"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "LIPPER_DOM_OFFSHORE",
+                    "type": {
+                        "id": "299",
+                        "name": "Domicile"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "329",
+                                "code": "LUX",
+                                "name": "Luxembourg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "MGTMTAPP",
+                    "type": {
+                        "id": "55480",
+                        "name": "Management Approach"
+                    },
+                    "values": [
+                        {
+                            "value": {
+                                "id": "55240",
+                                "code": "MAACTIVE",
+                                "name": "Active"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "cumulativeCalcs": [
+                {
+                    "code": "PERF_1MMEJ",
+                    "type": {
+                        "id": "5637",
+                        "code": "PCT1M",
+                        "name": "Percentage Growth - 1 Month"
+                    },
+                    "values": [
+                        {
+                            "value": 0.1937666,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3MMEJ",
+                    "type": {
+                        "id": "5640",
+                        "code": "PCT3M",
+                        "name": "Percentage Growth - 3 Month"
+                    },
+                    "values": [
+                        {
+                            "value": 6.593061,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_6MMEJ",
+                    "type": {
+                        "id": "5643",
+                        "code": "PCT6M",
+                        "name": "Percentage Growth - 6 Month"
+                    },
+                    "values": [
+                        {
+                            "value": 12.0628857,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_1YMEJ",
+                    "type": {
+                        "id": "5638",
+                        "code": "PCT1Y",
+                        "name": "Percentage Growth - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 23.6844239,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3YMEJ",
+                    "type": {
+                        "id": "5641",
+                        "code": "PCT3Y",
+                        "name": "Percentage Growth - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 49.7398645,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_5YMEJ",
+                    "type": {
+                        "id": "5642",
+                        "code": "PCT5Y",
+                        "name": "Percentage Growth - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 78.0345471,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_10YMEJ",
+                    "type": {
+                        "id": "5639",
+                        "code": "PCT10Y",
+                        "name": "Percentage Growth - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 219.9580493,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_YTMEJ",
+                    "type": {
+                        "id": "5645",
+                        "code": "PCTYTD",
+                        "name": "Percentage Growth - Year To Date"
+                    },
+                    "values": [
+                        {
+                            "value": 9.7489027,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_IMEJ",
+                    "type": {
+                        "id": "5644",
+                        "code": "PCTINCP",
+                        "name": "Percentage Growth - Since Inception"
+                    },
+                    "values": [
+                        {
+                            "value": 289.3809827,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_1MWEJ",
+                    "type": {
+                        "id": "48429",
+                        "name": "Growth rate 1 month to last weekend"
+                    },
+                    "values": [
+                        {
+                            "value": 0.39857,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2021-05-07",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3MWEJ",
+                    "type": {
+                        "id": "48430",
+                        "name": "Growth rate 3 month to last weekend"
+                    },
+                    "values": [
+                        {
+                            "value": 7.35518,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2021-03-05",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_6MWEJ",
+                    "type": {
+                        "id": "48431",
+                        "name": "Growth rate 6 month to last weekend"
+                    },
+                    "values": [
+                        {
+                            "value": 12.1591,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-12-04",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_1YWEJ",
+                    "type": {
+                        "id": "48432",
+                        "name": "Growth rate 1 year to last weekend"
+                    },
+                    "values": [
+                        {
+                            "value": 19.28966,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-06-05",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3YWEJ",
+                    "type": {
+                        "id": "48433",
+                        "name": "Growth rate 3 years to last weekend"
+                    },
+                    "values": [
+                        {
+                            "value": 44.71466,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-06-08",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_5YWEJ",
+                    "type": {
+                        "id": "48434",
+                        "name": "Growth rate 5 years to last weekend"
+                    },
+                    "values": [
+                        {
+                            "value": 78.67359,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-06-03",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_10YWEJ",
+                    "type": {
+                        "id": "48435",
+                        "name": "Growth rate 10 years to last weekend"
+                    },
+                    "values": [
+                        {
+                            "value": 233.09088,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-06-03",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_YTWEJ",
+                    "type": {
+                        "id": "48436",
+                        "name": "Growth rate from last year end to last weekend"
+                    },
+                    "values": [
+                        {
+                            "value": 8.74163,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-12-31",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_IWEJ",
+                    "type": {
+                        "id": "0"
+                    },
+                    "values": [
+                        {
+                            "value": 285.80725,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2006-10-31",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_1MTDJ",
+                    "type": {
+                        "id": "48420",
+                        "name": "Growth rate 1 month to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 0.65432,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2021-05-07",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_6MTDJ",
+                    "type": {
+                        "id": "48422",
+                        "name": "Growth rate 6 month to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 11.90503,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-12-07",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_1YTDJ",
+                    "type": {
+                        "id": "48423",
+                        "name": "Growth rate 1 year to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 19.59354,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-06-05",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3YTDJ",
+                    "type": {
+                        "id": "48424",
+                        "name": "Growth rate 3 year to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 46.47882,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-06-07",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_5YTDJ",
+                    "type": {
+                        "id": "48425",
+                        "name": "Growth rate 5 year to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 78.19134,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-06-07",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_10YTDJ",
+                    "type": {
+                        "id": "48426",
+                        "name": "Growth rate 10 year to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 238.18772,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-06-07",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_YTTDJ",
+                    "type": {
+                        "id": "48427",
+                        "name": "Growth rate from last year end to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 9.01864,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-12-31",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_ITDJ",
+                    "type": {
+                        "id": "48428",
+                        "name": "Growth rate from last year end to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 286.79005,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2006-10-31",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "ALPHA_1YMEJ",
+                    "type": {
+                        "id": "5613",
+                        "code": "ALP1Y",
+                        "name": "Alpha - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2120729,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "ALPHA_3YMEJ",
+                    "type": {
+                        "id": "5615",
+                        "code": "ALP3Y",
+                        "name": "Alpha - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.1258644,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "ALPHA_5YMEJ",
+                    "type": {
+                        "id": "5616",
+                        "code": "ALP5Y",
+                        "name": "Alpha - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.0182239,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "ALPHA_10YMEJ",
+                    "type": {
+                        "id": "5614",
+                        "code": "ALP10Y",
+                        "name": "Alpha - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -0.0137048,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "BETA_1YMEJ",
+                    "type": {
+                        "id": "5621",
+                        "code": "BET1Y",
+                        "name": "Beta - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.7507776,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "BETA_3YMEJ",
+                    "type": {
+                        "id": "5623",
+                        "code": "BET3Y",
+                        "name": "Beta - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.9621162,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "BETA_5YMEJ",
+                    "type": {
+                        "id": "5624",
+                        "code": "BET5Y",
+                        "name": "Beta - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.9474833,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "BETA_10YMEJ",
+                    "type": {
+                        "id": "5622",
+                        "code": "BET1OY",
+                        "name": "Beta - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.984161,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "R-SQUARED_1YMEJ",
+                    "type": {
+                        "id": "5655",
+                        "code": "RSQ1Y",
+                        "name": "R-Squared - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.8005148,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "R-SQUARED_3YMEJ",
+                    "type": {
+                        "id": "5657",
+                        "code": "RSQ3Y",
+                        "name": "R-Squared - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.8773223,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "R-SQUARED_5YMEJ",
+                    "type": {
+                        "id": "5658",
+                        "code": "RSQ5Y",
+                        "name": "R-Squared - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.8421798,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "R-SQUARED_10YMEJ",
+                    "type": {
+                        "id": "5656",
+                        "code": "RSQ10Y",
+                        "name": "R-Squared - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.8282984,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RELATIVE_PERFORMANCE_6MMEJ",
+                    "type": {
+                        "id": "5650",
+                        "code": "RPF6M",
+                        "name": "Relative Performance - 6 Month"
+                    },
+                    "values": [
+                        {
+                            "value": -1.809318,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RELATIVE_PERFORMANCE_1YMEJ",
+                    "type": {
+                        "id": "5646",
+                        "code": "RPF1Y",
+                        "name": "Relative Performance - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -4.8402886,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RELATIVE_PERFORMANCE_3YMEJ",
+                    "type": {
+                        "id": "5648",
+                        "code": "RPF3Y",
+                        "name": "Relative Performance - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 4.5270032,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RELATIVE_PERFORMANCE_5YMEJ",
+                    "type": {
+                        "id": "5649",
+                        "code": "RPF5Y",
+                        "name": "Relative Performance - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -3.8749664,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RELATIVE_PERFORMANCE_10YMEJ",
+                    "type": {
+                        "id": "5647",
+                        "code": "RPF10Y",
+                        "name": "Relative Performance - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -11.557876,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "STANDARD_DEVIATION_1YMEJ",
+                    "type": {
+                        "id": "5617",
+                        "code": "STD1Y",
+                        "name": "Annualised Standard Deviation - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 10.4624064,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "STANDARD_DEVIATION_3YMEJ",
+                    "type": {
+                        "id": "5619",
+                        "code": "STD3Y",
+                        "name": "Annualised Standard Deviation - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 17.1527224,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "STANDARD_DEVIATION_5YMEJ",
+                    "type": {
+                        "id": "5620",
+                        "code": "STD5Y",
+                        "name": "Annualised Standard Deviation - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 14.1807292,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "STANDARD_DEVIATION_10YMEJ",
+                    "type": {
+                        "id": "5618",
+                        "code": "STD10Y",
+                        "name": "Annualised Standard Deviation - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 13.4277207,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "SHARPE_RATIO_1YMEJ",
+                    "type": {
+                        "id": "5659",
+                        "code": "SHP1Y",
+                        "name": "Sharpe Ratio - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.6177839,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "SHARPE_RATIO_3YMEJ",
+                    "type": {
+                        "id": "5661",
+                        "code": "SHP3Y",
+                        "name": "Sharpe Ratio - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2330529,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "SHARPE_RATIO_5YMEJ",
+                    "type": {
+                        "id": "5662",
+                        "code": "SHP5Y",
+                        "name": "Sharpe Ratio - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2429693,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "SHARPE_RATIO_10YMEJ",
+                    "type": {
+                        "id": "5660",
+                        "code": "SHP10Y",
+                        "name": "Sharpe Ratio - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2509559,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "INFORMATION_RATIO_1YMEJ",
+                    "type": {
+                        "id": "5629",
+                        "code": "INF1Y",
+                        "name": "Information Ratio - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -0.2030462,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "INFORMATION_RATIO_3YMEJ",
+                    "type": {
+                        "id": "5631",
+                        "code": "INF3Y",
+                        "name": "Information Ratio - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.0487838,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "INFORMATION_RATIO_5YMEJ",
+                    "type": {
+                        "id": "5632",
+                        "code": "INF5Y",
+                        "name": "Information Ratio - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -0.0218918,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "INFORMATION_RATIO_10YMEJ",
+                    "type": {
+                        "id": "5630",
+                        "code": "INF10Y",
+                        "name": "Information Ratio - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -0.0184104,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RETURN/RISK_RATIO_1YMEJ",
+                    "type": {
+                        "id": "5651",
+                        "code": "RRK1Y",
+                        "name": "Risk/Reward Ratio - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.605132,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RETURN/RISK_RATIO_3YMEJ",
+                    "type": {
+                        "id": "5653",
+                        "code": "RRK3Y",
+                        "name": "Risk/Reward Ratio - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2519901,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RETURN/RISK_RATIO_5YMEJ",
+                    "type": {
+                        "id": "5654",
+                        "code": "RRK5Y",
+                        "name": "Risk/Reward Ratio - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2561502,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RETURN/RISK_RATIO_10YMEJ",
+                    "type": {
+                        "id": "5652",
+                        "code": "RRK10Y",
+                        "name": "Risk/Reward Ratio - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2704889,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "MAXIMUM_DRAWDOWN_1YMEJ",
+                    "type": {
+                        "id": "5633",
+                        "code": "MXD1Y",
+                        "name": "Max Drawdown - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -3.8615693,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "MAXIMUM_DRAWDOWN_3YMEJ",
+                    "type": {
+                        "id": "5635",
+                        "code": "MXD3Y",
+                        "name": "Max Drawdown - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -18.339558,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "MAXIMUM_DRAWDOWN_5YMEJ",
+                    "type": {
+                        "id": "5636",
+                        "code": "MXD5Y",
+                        "name": "Max Drawdown - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -18.339558,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "MAXIMUM_DRAWDOWN_10YMEJ",
+                    "type": {
+                        "id": "5634",
+                        "code": "MXD10Y",
+                        "name": "Max Drawdown - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -18.339558,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "TREYNOR_RATIO_1YMEJ",
+                    "type": {
+                        "id": "5667",
+                        "code": "TRN1Y",
+                        "name": "Treynor Ratio - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 2.4169968,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "TREYNOR_RATIO_3YMEJ",
+                    "type": {
+                        "id": "5669",
+                        "code": "TRN3Y",
+                        "name": "Treynor Ratio - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 1.2022488,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "TREYNOR_RATIO_5YMEJ",
+                    "type": {
+                        "id": "5670",
+                        "code": "TRN5Y",
+                        "name": "Treynor Ratio - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 1.0495767,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "TREYNOR_RATIO_10YMEJ",
+                    "type": {
+                        "id": "5668",
+                        "code": "TRN10Y",
+                        "name": "Treynor Ratio - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.9878363,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "CORRELATION_1YMEJ",
+                    "type": {
+                        "id": "5625",
+                        "code": "COR1Y",
+                        "name": "Correlation - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.8947149,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "CORRELATION_3YMEJ",
+                    "type": {
+                        "id": "5627",
+                        "code": "COR3Y",
+                        "name": "Correlation - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.9366548,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "CORRELATION_5YMEJ",
+                    "type": {
+                        "id": "5628",
+                        "code": "COR5Y",
+                        "name": "Correlation - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.9177035,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "CORRELATION_10YMEJ",
+                    "type": {
+                        "id": "5626",
+                        "code": "COR1OY",
+                        "name": "Correlation - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.910109,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "TRACKING_ERROR_1YMEJ",
+                    "type": {
+                        "id": "5663",
+                        "code": "TRK1Y",
+                        "name": "Tracking Error - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 1.5754969,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "TRACKING_ERROR_3YMEJ",
+                    "type": {
+                        "id": "5665",
+                        "code": "TRK3Y",
+                        "name": "Tracking Error - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 1.7480135,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "TRACKING_ERROR_5YMEJ",
+                    "type": {
+                        "id": "5666",
+                        "code": "TRK5Y",
+                        "name": "Tracking Error - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 1.6392558,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "TRACKING_ERROR_10YMEJ",
+                    "type": {
+                        "id": "5664",
+                        "code": "TRK10Y",
+                        "name": "Tracking Error - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 1.6062459,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RELATIVE_PERFORMANCE_3MMEJ",
+                    "type": {
+                        "id": "5701",
+                        "code": "RPF3M",
+                        "name": "Relative Performance - 3 Month"
+                    },
+                    "values": [
+                        {
+                            "value": -2.4725601,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RELATIVE_PERFORMANCE_1MMEJ",
+                    "type": {
+                        "id": "5702",
+                        "code": "RPF1M",
+                        "name": "Relative Performance - 1 Month"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2632848,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "RELATIVE_PERFORMANCE_YTMEJ",
+                    "type": {
+                        "id": "5703",
+                        "code": "RPFYTD",
+                        "name": "Relative Performance - Year to Date"
+                    },
+                    "values": [
+                        {
+                            "value": -1.9541243,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3MTDJ",
+                    "type": {
+                        "id": "48421",
+                        "name": "Growth rate 3 month to yesterday"
+                    },
+                    "values": [
+                        {
+                            "value": 7.62865,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2021-03-05",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "LastYearMinus2",
+                    "type": {
+                        "id": "32273",
+                        "code": "LastYearMinus2",
+                        "name": "Current Year minus three"
+                    },
+                    "values": [
+                        {
+                            "value": -2.6034619,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "LastYearMinus3",
+                    "type": {
+                        "id": "32274",
+                        "code": "LastYearMinus3",
+                        "name": "Current Year minus four"
+                    },
+                    "values": [
+                        {
+                            "value": 9.2730393,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "LastYearMinus4",
+                    "type": {
+                        "id": "32275",
+                        "code": "LastYearMinus4",
+                        "name": "Current Year minus five"
+                    },
+                    "values": [
+                        {
+                            "value": 2.5633726,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "LastYear",
+                    "type": {
+                        "id": "32271",
+                        "code": "LastYear",
+                        "name": "Last Year"
+                    },
+                    "values": [
+                        {
+                            "value": 11.7912008,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "LastYearMinus1",
+                    "type": {
+                        "id": "32272",
+                        "code": "LastYearMinus1",
+                        "name": "Current Year minus two"
+                    },
+                    "values": [
+                        {
+                            "value": 33.7385037,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3YMEJ_ANN",
+                    "type": {
+                        "id": "5641",
+                        "name": "Annualized 3 Year Performance to Last Month End"
+                    },
+                    "values": [
+                        {
+                            "value": 14.39117,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_5YMEJ_ANN",
+                    "type": {
+                        "id": "5642",
+                        "name": "Annualized 5 Year Performance to Last Month End"
+                    },
+                    "values": [
+                        {
+                            "value": 12.22082,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_10YMEJ_ANN",
+                    "type": {
+                        "id": "5639",
+                        "name": "Annualized 10 Year Performance to Last Month End"
+                    },
+                    "values": [
+                        {
+                            "value": 12.32277,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3YWEJ_ANN",
+                    "type": {
+                        "id": "48433"
+                    },
+                    "values": [
+                        {
+                            "value": 13.14912,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-06-08",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_5YWEJ_ANN",
+                    "type": {
+                        "id": "48434"
+                    },
+                    "values": [
+                        {
+                            "value": 12.29409,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-06-03",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_10YWEJ_ANN",
+                    "type": {
+                        "id": "48435"
+                    },
+                    "values": [
+                        {
+                            "value": 12.77143,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-06-03",
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_3YTDJ_ANN",
+                    "type": {
+                        "id": "48424"
+                    },
+                    "values": [
+                        {
+                            "value": 13.55542,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-06-07",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_5YTDJ_ANN",
+                    "type": {
+                        "id": "48425"
+                    },
+                    "values": [
+                        {
+                            "value": 12.24056,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-06-07",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_10YTDJ_ANN",
+                    "type": {
+                        "id": "48426"
+                    },
+                    "values": [
+                        {
+                            "value": 12.94638,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-06-07",
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "SOR3YWE",
+                    "type": {
+                        "id": "47404",
+                        "code": "SOR3YWE",
+                        "name": "Sortino - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.1844855,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "SOR5YWE",
+                    "type": {
+                        "id": "47405",
+                        "code": "SOR5YWE",
+                        "name": "Sortino - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2116148,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "SOR10YWE",
+                    "type": {
+                        "id": "47406",
+                        "code": "SOR10YWE",
+                        "name": "Sortino - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2342234,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR3YWE",
+                    "type": {
+                        "id": "47409",
+                        "code": "VAR3YWE",
+                        "name": "Variance - 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 24.5179906,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR5YWE",
+                    "type": {
+                        "id": "47410",
+                        "code": "VAR5YWE",
+                        "name": "Variance - 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 16.7577567,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR10YWE",
+                    "type": {
+                        "id": "47411",
+                        "code": "VAR10YWE",
+                        "name": "Variance - 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 15.0253069,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal 3YR",
+                    "type": {
+                        "id": "50707",
+                        "code": "VAR Normal 3YR",
+                        "name": "Value At Risk Normal- 3 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -6.8968537,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal 5YR",
+                    "type": {
+                        "id": "50708",
+                        "code": "VAR Normal 5YR",
+                        "name": "Value At Risk Normal- 5 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -5.6848294,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal 10YR",
+                    "type": {
+                        "id": "50705",
+                        "code": "VAR Normal 10YR",
+                        "name": "Value At Risk Normal- 10 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -5.3273799,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal ETL 3Yr",
+                    "type": {
+                        "id": "50712",
+                        "code": "VAR Normal ETL 3Yr",
+                        "name": "Value At Risk Normal ETL 3Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -8.9659104,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal ETL 5Yr",
+                    "type": {
+                        "id": "50713",
+                        "code": "VAR Normal ETL 5Yr",
+                        "name": "Value At Risk Normal ETL 5Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -7.3953877,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal ETL 10Yr",
+                    "type": {
+                        "id": "50710",
+                        "code": "VAR Normal ETL 10Yr",
+                        "name": "Value At Risk Normal ETL 10Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -6.9471062,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quantile 3Yr",
+                    "type": {
+                        "id": "50717",
+                        "code": "VAR Quantile 3Yr",
+                        "name": "Value At Risk Quantile 3Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -9.5636957,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quantile 5Yr",
+                    "type": {
+                        "id": "50716",
+                        "code": "VAR Quantile 5Yr",
+                        "name": "Value At Risk Quantile 5Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -8.7701396,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quantile 10Yr",
+                    "type": {
+                        "id": "50719",
+                        "code": "VAR Quantile 10Yr",
+                        "name": "Value At Risk Quantile 10Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -6.8773717,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quant ETL 3Yr",
+                    "type": {
+                        "id": "50722",
+                        "code": "VAR Quant ETL 3Yr",
+                        "name": "Value At Risk Quantile ETL 3Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -17.8630385,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2018-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quant ETL 5Yr",
+                    "type": {
+                        "id": "50723",
+                        "code": "VAR Quant ETL 5Yr",
+                        "name": "Value At Risk Quantile ETL 5Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -9.5168349,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2016-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quant ETL 10Yr",
+                    "type": {
+                        "id": "50720",
+                        "code": "VAR Quant ETL 10Yr",
+                        "name": "Value At Risk Quantile ETL 10Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -8.3998955,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2011-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "SOR1YWE",
+                    "type": {
+                        "id": "47403",
+                        "code": "SOR1YWE",
+                        "name": "Sortino - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 0.7309776,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR1YWE",
+                    "type": {
+                        "id": "47408",
+                        "code": "VAR1YWE",
+                        "name": "Variance - 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": 9.1218289,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal 1YR",
+                    "type": {
+                        "id": "50706",
+                        "code": "VAR Normal 1YR",
+                        "name": "Value At Risk Normal- 1 Year"
+                    },
+                    "values": [
+                        {
+                            "value": -3.1402053,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal ETL 1Yr",
+                    "type": {
+                        "id": "50711",
+                        "code": "VAR Normal ETL 1Yr",
+                        "name": "Value At Risk Normal ETL 1Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -4.4022388,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quantile 1Yr",
+                    "type": {
+                        "id": "50718",
+                        "code": "VAR Quantile 1Yr",
+                        "name": "Value At Risk Quantile 1Yr"
+                    },
+                    "values": [
+                        {
+                            "value": -3.4746943,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-05-31",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "SOR6MWE",
+                    "type": {
+                        "id": "47407",
+                        "code": "SOR6MWE",
+                        "name": "Sortino -  6 Month"
+                    },
+                    "values": [
+                        {
+                            "value": 0.0792591,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-11-30",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR6MWE",
+                    "type": {
+                        "id": "47412",
+                        "code": "VAR6MWE",
+                        "name": "Variance -  6 Month"
+                    },
+                    "values": [
+                        {
+                            "value": 1.0556188,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-11-30",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal ETL 6M",
+                    "type": {
+                        "id": "50714",
+                        "code": "VAR Normal ETL 6M",
+                        "name": "Value At Risk Normal ETL 6M"
+                    },
+                    "values": [
+                        {
+                            "value": -2.0264134,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-11-30",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quantile 6M",
+                    "type": {
+                        "id": "50715",
+                        "code": "VAR Quantile 6M",
+                        "name": "Value At Risk Quantile 6M"
+                    },
+                    "values": [
+                        {
+                            "value": -1.8693759,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-11-30",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Quant ETL 6M",
+                    "type": {
+                        "id": "50724",
+                        "code": "VAR Quant ETL 6M",
+                        "name": "Value At Risk Quantile ETL 6M"
+                    },
+                    "values": [
+                        {
+                            "value": -2.4688932,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-11-30",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "VAR Normal 6MWE",
+                    "type": {
+                        "id": "50709",
+                        "code": "VAR Normal 5YR",
+                        "name": "Value At Risk Normal- 6 Month"
+                    },
+                    "values": [
+                        {
+                            "value": -1.5970911,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "date": "2020-11-30",
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "PERF_2YMEJ",
+                    "type": {
+                        "id": "57320",
+                        "code": "PERF_2YME",
+                        "name": "Growth rate 2 year to last month"
+                    },
+                    "values": [
+                        {
+                            "value": 41,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                }
+            ],
+            "rollingPerformance": [
+                {
+                    "code": "DAILYPERF",
+                    "type": {
+                        "id": "5610",
+                        "code": "DAILY",
+                        "name": "Daily Performance"
+                    },
+                    "values": [
+                        {
+                            "value": 0.2547307,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-06-07"
+                        }
+                    ]
+                },
+                {
+                    "code": "WEEKLYPERF",
+                    "type": {
+                        "id": "5612",
+                        "code": "WEEKLY",
+                        "name": "Weekly Performance"
+                    },
+                    "values": [
+                        {
+                            "value": -0.9177921,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2021-06-04"
+                        }
+                    ]
+                },
+                {
+                    "code": "MONTHLYPERF",
+                    "type": {
+                        "id": "5611",
+                        "code": "MONTHLY",
+                        "name": "Monthly Performance"
+                    },
+                    "values": [
+                        {
+                            "value": 0.1937666,
+                            "currency": "EUR",
+                            "isEstimate": true,
+                            "endDate": "2021-05-31"
+                        }
+                    ]
+                },
+                {
+                    "code": "YEARLYPERF",
+                    "type": {
+                        "id": "5609",
+                        "code": "CAL_YEAR",
+                        "name": "Calender Year Performance"
+                    },
+                    "values": [
+                        {
+                            "value": 11.7912008,
+                            "currency": "EUR",
+                            "isEstimate": false,
+                            "endDate": "2020-12-31"
+                        }
+                    ]
+                }
+            ],
+            "serviceProviders": [
+                {
+                    "code": "PROMOTER",
+                    "type": {
+                        "id": "7536",
+                        "name": "Promoter"
+                    },
+                    "values": [
+                        {
+                            "name": "Pictet",
+                            "code": "P194",
+                            "country": "Unidentified",
+                            "webSite": "www.assetmanagement.pictet",
+                            "date": "1800-01-01"
+                        }
+                    ]
+                },
+                {
+                    "code": "CUSTODIAN",
+                    "type": {
+                        "id": "394",
+                        "name": "Custodian"
+                    },
+                    "values": [
+                        {
+                            "name": "Pictet & Cie (Europe) SA",
+                            "code": "146",
+                            "addressLine1": "15A, avenue J.F. Kennedy",
+                            "city": "Luxembourg",
+                            "postalCode": "L-1855",
+                            "country": "Luxembourg",
+                            "telephone": "(352) 46 71 711",
+                            "fax": "(352) 22 48 68",
+                            "email": "mglasener@pictet.com",
+                            "webSite": "www.assetmanagement.pictet",
+                            "date": "1800-01-01"
+                        }
+                    ]
+                },
+                {
+                    "code": "ADMINISTRATOR",
+                    "type": {
+                        "id": "393",
+                        "name": "Administrator"
+                    },
+                    "values": [
+                        {
+                            "name": "FundPartner Solutions",
+                            "code": "BIDV",
+                            "addressLine1": "15, avenue J.F. Kennedy",
+                            "city": "Luxembourg",
+                            "postalCode": "L-1855",
+                            "country": "Luxembourg",
+                            "email": "FPS_Publishing@pictet.com",
+                            "webSite": "www.assetmanagement.pictet",
+                            "date": "1800-01-01"
+                        }
+                    ]
+                },
+                {
+                    "code": "INVESTMENT_ADVISOR",
+                    "type": {
+                        "id": "392",
+                        "name": "Investment Advisor"
+                    },
+                    "values": [
+                        {
+                            "name": "Pictet Asset Management SA",
+                            "code": "MKMW",
+                            "addressLine1": "Route des Acacias 60",
+                            "addressLine2": "1211 Geneva 73",
+                            "city": "Geneva",
+                            "country": "Switzerland",
+                            "telephone": "+41-583-2333 33",
+                            "webSite": "www.assetmanagement.pictet",
+                            "date": "1800-01-01"
+                        }
+                    ]
+                },
+                {
+                    "code": "FUND_MANAGEMENT_COMP",
+                    "type": {
+                        "id": "391",
+                        "name": "Fund Management Company"
+                    },
+                    "values": [
+                        {
+                            "name": "Pictet AM (Europe) SA",
+                            "code": "Y460",
+                            "addressLine1": "3, boulevard Royal",
+                            "addressLine2": "L-2449 Luxembourg",
+                            "addressLine3": "Luxembourg",
+                            "country": "Luxembourg",
+                            "telephone": "(352) 46 71 711",
+                            "fax": "(352) 224 868",
+                            "webSite": "www.assetmanagement.pictet",
+                            "date": "1800-01-01"
+                        }
+                    ]
+                }
+            ],
+            "benchmarks": [
+                {
+                    "code": "HBCSTYLEBENCHMARK",
+                    "type": {
+                        "id": "28701",
+                        "code": "HBCSTYLEBENCHMARK",
+                        "name": "HBC Style Benchmark"
+                    },
+                    "values": [
+                        {
+                            "name": "MSCI World TR USD",
+                            "id": 11000648,
+                            "date": "2020-11-30"
+                        }
+                    ]
+                },
+                {
+                    "code": "HBCCAPBENCHMARK",
+                    "type": {
+                        "id": "14293",
+                        "code": "HBCCAPBENCHMARK",
+                        "name": "HBC Capitalization Benchmark"
+                    },
+                    "values": [
+                        {
+                            "name": "MSCI World TR USD",
+                            "id": 11000648,
+                            "date": "2020-11-30"
+                        }
+                    ]
+                },
+                {
+                    "code": "RISK-FREE_INDEX",
+                    "type": {
+                        "id": "741",
+                        "name": "Risk-Free Index"
+                    },
+                    "values": [
+                        {
+                            "name": "LIBOR EUR 3 Month",
+                            "id": 11020243
+                        }
+                    ]
+                },
+                {
+                    "code": "FUND_MANAGER",
+                    "type": {
+                        "id": "743",
+                        "name": "Fund Manager"
+                    },
+                    "values": [
+                        {
+                            "name": "MSCI AC World NR EUR",
+                            "id": 11032851
+                        }
+                    ]
+                },
+                {
+                    "code": "TECHNICAL_INDICATOR",
+                    "type": {
+                        "id": "740",
+                        "name": "Technical Indicator"
+                    },
+                    "values": [
+                        {
+                            "name": "MSCI World TR USD",
+                            "id": 11000648
+                        }
+                    ]
+                }
+            ],
+            "classBenchmarks": [
+                {
+                    "code": "ASSOGEST2003BENCHMARK",
+                    "type": {
+                        "id": "4864",
+                        "code": "ASSOGEST2003",
+                        "name": "Assogestioni 2003"
+                    },
+                    "values": [
+                        {
+                            "class": {
+                                "id": "4868",
+                                "code": "AZAS",
+                                "name": "Azionari Altri Settori"
+                            },
+                            "benchmark": {
+                                "name": "Assogestioni - Azionari altri settori",
+                                "id": 19046004
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "LGC2005BENCHMARK",
+                    "type": {
+                        "id": "6052",
+                        "code": "LGC2005",
+                        "name": "Lipper Global"
+                    },
+                    "values": [
+                        {
+                            "class": {
+                                "id": "6079",
+                                "code": "EQGBL",
+                                "name": "Equity Global"
+                            },
+                            "benchmark": {
+                                "name": "Lipper Global Equity Global",
+                                "id": 19058028
+                            },
+                            "date": "2009-12-08"
+                        }
+                    ]
+                },
+                {
+                    "code": "LIPPERCHBENCHMARK",
+                    "type": {
+                        "id": "1784",
+                        "code": "LIPPERCH",
+                        "name": "Lipper Schweiz"
+                    },
+                    "values": [
+                        {
+                            "class": {
+                                "id": "1838",
+                                "code": "S207",
+                                "name": "Equity Global"
+                            },
+                            "benchmark": {
+                                "name": "Lipper Schweiz - Equity Global",
+                                "id": 19010054
+                            },
+                            "date": "2009-12-08"
+                        }
+                    ]
+                }
+            ],
+            "prices": [
+                {
+                    "code": "NAV",
+                    "type": {
+                        "id": "761",
+                        "code": "NAV",
+                        "name": "NAV"
+                    },
+                    "values": [
+                        {
+                            "date": "2021-06-08",
+                            "currency": "EUR",
+                            "priceCode": "Nav",
+                            "value": 303.59,
+                            "isEstimate": false
+                        }
+                    ]
+                }
+            ],
+            "classifications": [
+                {
+                    "code": "LIPPERCH",
+                    "type": {
+                        "id": "1784",
+                        "name": "Lipper Schweiz"
+                    },
+                    "values": [
+                        {
+                            "class": {
+                                "id": "1838",
+                                "code": "S207",
+                                "name": "Equity Global"
+                            },
+                            "date": "2009-12-08"
+                        }
+                    ]
+                },
+                {
+                    "code": "LGC2005",
+                    "type": {
+                        "id": "6052",
+                        "name": "Lipper Global"
+                    },
+                    "values": [
+                        {
+                            "class": {
+                                "id": "6079",
+                                "code": "EQGBL",
+                                "name": "Equity Global"
+                            },
+                            "date": "2009-12-08"
+                        }
+                    ]
+                },
+                {
+                    "code": "BVI2006",
+                    "type": {
+                        "id": "10619",
+                        "name": "German BVI"
+                    },
+                    "values": [
+                        {
+                            "class": {
+                                "id": "12234",
+                                "code": "BVIATEC",
+                                "name": "BVI Eq Sect Technology"
+                            },
+                            "date": "2020-11-26"
+                        }
+                    ]
+                },
+                {
+                    "code": "ASSOGEST2003",
+                    "type": {
+                        "id": "4864",
+                        "name": "Assogestioni 2003"
+                    },
+                    "values": [
+                        {
+                            "class": {
+                                "id": "4868",
+                                "code": "AZAS",
+                                "name": "Azionari Altri Settori"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "code": "HBC",
+                    "type": {
+                        "id": "7540",
+                        "name": "Holdings Based Classification"
+                    },
+                    "values": [
+                        {
+                            "class": {
+                                "id": "7596",
+                                "code": "GMLG",
+                                "name": "Global Multi-Cap Growth"
+                            },
+                            "date": "2021-03-31"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "totalRecords": 1,
+    "fromIndex": 0,
+    "toIndex": 0,
+    "pageNumber": 0
+}

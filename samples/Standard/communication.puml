@@ -1,0 +1,17 @@
+@startuml
+
+!include https://raw.githubusercontent.com/plantuml/puml-themes/master/themes/metal/puml-theme-metal.puml
+
+rectangle “A Student” as S
+rectangle “Online Book Ordering System” as OBOS
+rectangle “Fulfillment Center” as FC
+rectangle “Books” as B
+rectangle “Book Order” as BO
+
+S -right->> OBOS: 1: login
+OBOS -down- B
+OBOS -down->> FC: 2: submit books\n3: calculate price
+FC -- B
+FC -down- BO: 4: get quantity
+B -right- BO
+@enduml

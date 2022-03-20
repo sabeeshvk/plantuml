@@ -1,0 +1,11 @@
+@startuml
+
+'saturday are closed
+'sunday are closed
+
+Project starts 2022-07-01
+[Prototype design] starts 2022-07-01
+[Test prototype] starts 2022-07-16
+[Prototype design] ends 2022-07-15
+[Test prototype] ends 2022-07-25
+@enduml

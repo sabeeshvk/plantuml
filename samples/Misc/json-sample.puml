@@ -1,0 +1,65 @@
+@startjson
+
+/'
+<style>
+jsonDiagram {
+  node {
+    BackGroundColor #White
+    LineColor lightblue
+    FontName Helvetica
+    FontColor Green
+    FontSize 18
+    FontStyle bold
+    RoundCorner 0
+    LineThickness 2
+    LineStyle 10;5
+    separator {
+      LineThickness 0.5
+      LineColor black
+      LineStyle 1;5
+    }
+  }
+  arrow {
+    BackGroundColor lightblue
+    LineColor green
+    LineThickness 2
+    LineStyle 2;5
+  }
+  highlight {
+    BackGroundColor red
+    FontColor white
+    FontStyle italic
+  }
+}
+</style>
+'/
+
+#highlight "lastName"
+#highlight "address" / "city"
+#highlight "phoneNumbers" / "0" / "number"
+
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "isAlive": true,
+  "age": 27,
+  "address": {
+    "streetAddress": "21 2nd Street",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": "10021-3100"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "212 555-1234"
+    },
+    {
+      "type": "office",
+      "number": "646 555-4567"
+    }
+  ],
+  "children": [],
+  "spouse": null
+}
+@endjson

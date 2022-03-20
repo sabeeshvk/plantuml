@@ -1,0 +1,18 @@
+@startmindmap
+
+!include https://raw.githubusercontent.com/plantuml/puml-themes/master/themes/minty/puml-theme-minty.puml
+!include https://raw.githubusercontent.com/plantuml/puml-themes/master/themes/cyborg/puml-theme-cyborg.puml
+
+* Debian
+** Ubuntu
+*** Linux Mint
+*** Kubuntu
+*** Lubuntu
+*** KDE Neon
+** LMDE
+** SolydXK
+** SteamOS
+** Raspbian with a very long name
+*** <s>Raspmbc</s> => OSMC
+*** <s>Raspyfi</s> => Volumio
+@endmindmap

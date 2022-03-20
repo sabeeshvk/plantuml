@@ -1,6 +1,6 @@
-@startuml
+@startwbs
 * UML
-** Behavioral
+**[#LightBlue] Behavioral
 *** Activity Diagrams
 *** Interaction Diagrams
 **** Sequence Diagrams
@@ -8,11 +8,11 @@
 **** Timing Diagrams
 *** State Machine Diagrams
 *** Use Case Diagrams
-** Structural
+**[#Orange] Structural
 *** Class Diagrams
 *** Component Diagrams
 *** Composite Diagrams
 *** Deployment Diagrams
 *** Object Diagrams
 *** Package Diagrams
-@enduml
+@endwbs

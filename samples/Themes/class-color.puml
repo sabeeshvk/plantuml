@@ -2,9 +2,19 @@
 
 @startuml
 
+skinparam ClassBackgroundColor #White
+skinparam NoteBackgroundColor #LightGreen
 
-!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
-!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/materia/puml-theme-materia.puml
+'skinparam ClassFontColor #AliceBlue
+skinparam ClassBorderColor #Navy
+skinparam NoteBorderColor #Navy
+
+'skinparam ClassStereotypeFontSize 5
+'skinparam CircledCharacterFontSize 5
+'skinparam CircledCharacterRadius 5
+'skinparam ClassBorderThickness 5
+'skinparam Shadowing false
+
 
 
 class Client

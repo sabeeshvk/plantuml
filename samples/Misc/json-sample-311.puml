@@ -1,0 +1,45 @@
+
+@startjson
+
+   { 
+        "unique_key": "53674558",
+        "created_date": "2022-03-18T02:00:13.000",
+        "agency": "NYPD",
+        "agency_name": "New York City Police Department",
+        "complaint_type": "Blocked Driveway",
+        "descriptor": "No Access",
+        "location_type": "Street/Sidewalk",
+        "incident_zip": "11355",
+        "incident_address": "41-28 HAIGHT STREET",
+        "street_name": "HAIGHT STREET",
+        "cross_street_1": "41 AVENUE",
+        "cross_street_2": "SANFORD AVENUE",
+        "intersection_street_1": "41 AVENUE",
+        "intersection_street_2": "SANFORD AVENUE",
+        "address_type": "ADDRESS",
+        "city": "FLUSHING",
+        "landmark": "HAIGHT STREET",
+        "status": "In Progress",
+        "community_board": "07 QUEENS",
+        "bbl": "4050627501",
+        "borough": "QUEENS",
+        "x_coordinate_state_plane": "1030145",
+        "y_coordinate_state_plane": "214522",
+        "open_data_channel_type": "PHONE",
+        "park_facility_name": "Unspecified",
+        "park_borough": "QUEENS",
+        "latitude": "40.7553707323594",
+        "longitude": "-73.83434420069491",
+        "location": {
+            "latitude": "40.7553707323594",
+            "longitude": "-73.83434420069491",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_efsh_h5xi": "14190",
+        ":@computed_region_f5dn_yrer": "22",
+        ":@computed_region_yeji_bk3q": "3",
+        ":@computed_region_92fq_4b7q": "3",
+        ":@computed_region_sbqj_enih": "67"
+    }
+
+@endjson

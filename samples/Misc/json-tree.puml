@@ -1,0 +1,14 @@
+@startjson
+
+{
+    "error": "invalid_client",
+    "error_description": "AADSTS7000216: ",
+    "error_codes": [
+        7000216
+    ],
+    "timestamp": "2022-03-18 19:27:04Z",
+    "trace_id": "e9136b03-491e-4aa4-ae6b-dfa4392ebb00",
+    "correlation_id": "0f79d575-ba39-4990-aa51-8ad1c097546a",
+    "error_uri": "https://login.microsoftonline.com/error?code=7000216"
+}
+@endjson

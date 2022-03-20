@@ -1,0 +1,13 @@
+@startuml
+
+!include https://raw.githubusercontent.com/plantuml/puml-themes/master/themes/metal/puml-theme-metal.puml
+
+
+hide empty description
+[*] -right-> Wait
+Wait -right-> Vault
+Vault -down-> [*]
+Vault -up-> Enable
+Enable -left-> Unlock
+Unlock -down-> Wait
+@enduml

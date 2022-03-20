@@ -1,0 +1,20 @@
+@startuml
+robust “Vault” as V
+robust “Bio Security Sys” as BIO
+
+@0
+V is Off
+BIO is Off
+
+@+5
+V is On
+BIO@5 <-> @20 : {15 ms}
+
+@+15
+V is On
+BIO is On
+
+@+30
+V is Off
+BIO is Off
+@enduml

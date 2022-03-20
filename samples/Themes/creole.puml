@@ -1,9 +1,12 @@
 @startuml
+
 object demo {
   * Bullet list
   * Second item
 }
-note left
+
+
+note right 
   = Extra 
   == Second
   === third
@@ -12,6 +15,7 @@ note left
   * Second item
   ** Sub item
 end note
+
 
 legend
   # Numbered list
@@ -22,4 +26,23 @@ legend
         * Numbers and bullets
   # Third item
 end legend
+
+
+object demo2 {
+  * Bullet list
+  * Second item
+}
+
+note right
+<b>Bold</b>
+<i>Italics</i>
+<u>Underscore</u>
+<s>Strike</s>
+<b>H<sub>2</sub>O
+
+=<math>-1=e<sup>i pi</sup></math>
+
+end note
+
+
 @enduml

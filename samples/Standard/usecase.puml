@@ -1,6 +1,6 @@
 @startuml
 
-!include https://raw.githubusercontent.com/plantuml/puml-themes/master/themes/metal/puml-theme-metal.puml
+'!include https://raw.githubusercontent.com/plantuml/puml-themes/master/themes/metal/puml-theme-metal.puml
 
 left to right direction
 skinparam packageStyle rectangle
@@ -20,11 +20,11 @@ S --> (SC)
 S --> (SA)
 S --> (UA)
 S --> (ET)
-(SL) -- I
-(SC) -- I
-(SA) -- I
-(SS) -- I
-(GA) -- I
+(SL) <-- I
+(SC) <-- I
+(SA) <-- I
+(SS) <-- I
+(GA) <-- I
 (UA) -[hidden]> (ET)
 (SS) -[hidden]> (GA)
 }
